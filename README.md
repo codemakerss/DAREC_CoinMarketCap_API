@@ -35,7 +35,7 @@ Python file - Coin_Market_Data.py - will be used to do this work.
 Example of OHLCV Historical v2 endpoint (`https://pro-api.coinmarketcap.com/v2/cryptocurrency/ohlcv/historical`) :
 
 -  Look fo parameters 
-  ![Parameter_pic](sd)
+  ![Parameter_pic](https://github.com/codemakerss/DAREC_CoinMarketCap_API/blob/main/parameter_example.png)
   
 -  Apply parameters 
 
