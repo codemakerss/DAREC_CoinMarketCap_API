@@ -43,6 +43,7 @@ Example of OHLCV Historical v2 endpoint (`https://pro-api.coinmarketcap.com/v2/c
 def get_crypto_data(endpoints : str) -> list:
 	...
 	# change parameters to apply endpoints functions
+	# you may refer to symbol_id to check correct id for the cryptocurrency you choose
 	parameters = {'id': '1', 'time_period':'hourly'}
 	...
 	
